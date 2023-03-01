@@ -1,8 +1,7 @@
 # ATM
 Program of an atm machine
 
-It has the administrator and the client areas, that are accessed inputing the correct credentials
-The default administrator password is "0000"
+It has the administrator and the client areas, that are accessed inputing the correct credentials. The default administrator password is "0000"
 
 Administrator have the options to:
   - Change the adm password
