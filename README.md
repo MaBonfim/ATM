@@ -15,7 +15,7 @@ Client have the options to:
   - Withdraw money from the account
   - Deposit money on the account
 
-How to run
+How to run:
   While inside in the ATM file run the python file "main.py"
   on windows use the command in the prompt "main.py" or "python main.py"
   or use a code editor to run the file
